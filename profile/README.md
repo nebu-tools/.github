@@ -11,4 +11,4 @@ Tools for academic-ish knowledge work: reading, reviewing, writing, and submitti
 - [siglum](https://github.com/nebu-tools/siglum): cite sources in Word with a search box, as a
   replacement for EndNote's Cite While You Write.
 
-All projects are AGPL-3.0 and experimental.
+All projects are licensed under the AGPL-3.0.
